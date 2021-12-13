@@ -1,3 +1,3 @@
 Gerrit Unland 
 
-Student Tu Braunschweig
+Student, TU Braunschweig
